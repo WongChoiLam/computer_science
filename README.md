@@ -2,7 +2,7 @@
 For sharing code, slides, note, etc.
 
 
-## Code
+## Python Code
 
 [Quick Sort](./code/quicksort.py)
 
@@ -11,6 +11,16 @@ For sharing code, slides, note, etc.
 [Linear Search](./code/linear_search.py)
 
 [Binary Search](./code/binary_search.py)
+ 
+## Java Code
+
+[Quick Sort](./code/QuickSort.java)
+
+[Bubble Sort](./code/BubbleSort.java)
+
+[Linear Search](./code/LinearSearch.java)
+
+[Binary Search](./code/BinarySearch.java)
 
 ## Resources
 
