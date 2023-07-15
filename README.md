@@ -1,10 +1,17 @@
 # computer_science
 For sharing code, slides, note, etc.
 
+## Slides
+
+[7/15 Ethics and Ownership](https://docs.google.com/presentation/d/1mLjgf52GAqDlLRPYUQ_hRB0jV_H4RpL6xrwD4uCOofU/edit?usp=sharing)
+
+## Past Paper Guide
+
+[7. Ethics and Ownership](./9618%20Past%20Paper%20Guide/7-Ethics_and_Ownership.md)
 
 ## Python Code
 
-[Quick Sort](./code/quicksort.py)
+[Quick Sort (9608)](./code/quicksort.py)
 
 [Bubble Sort](./code/bubble_sort.py)
 
@@ -14,7 +21,7 @@ For sharing code, slides, note, etc.
  
 ## Java Code
 
-[Quick Sort](./code/QuickSort.java)
+[Quick Sort (9608)](./code/QuickSort.java)
 
 [Bubble Sort](./code/BubbleSort.java)
 

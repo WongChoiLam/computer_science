@@ -9,7 +9,7 @@ class BubbleSort{
         }
         scan.close();
         
-        QuickSort.sort(numbers);
+        BubbleSort.sort(numbers);
         for(int i : numbers){
             System.out.println(i);
         }
